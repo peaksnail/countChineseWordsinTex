@@ -3,7 +3,7 @@
 
 #func : count the chinese word in tex
 #input: the filepath
-#outpur : the number of the chinese words
+#output : the number of the chinese words
 
 import sys
 
